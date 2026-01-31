@@ -14,12 +14,12 @@ void main() {
     },
   };
 
-  final Map<int, dynamic> pokemons = {
-    1: 'Bulbasaur',
-    2: 'Ivysaur',
-    3: 'Venusaur',
-    4: true
-  };
+  // final Map<int, dynamic> pokemons = {
+  //   1: 'Bulbasaur',
+  //   2: 'Ivysaur',
+  //   3: 'Venusaur',
+  //   4: true
+  // };
 
   print(pokemon['sprites']);
 
